@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi HUmans!
+
+I like coding and I can work hard to learn it.
